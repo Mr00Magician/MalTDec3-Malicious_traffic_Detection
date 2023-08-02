@@ -1,4 +1,4 @@
-# Network Intrusion Detection System (NIDS)
+# MalTDec3: Malicious Traffic Detection in a network using 3 layer inspection
 
 ## Overview
 
